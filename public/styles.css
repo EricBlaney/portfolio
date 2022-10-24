@@ -1,0 +1,10 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FBFF5A
+}
+
+.portfolio-picture {
+    border-radius: 20%;
+}
