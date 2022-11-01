@@ -6,8 +6,11 @@ const Landing = () => {
         <div>
             
             <div className="contact-details">
-                <img className="portfolio-picture" src="../public/selie.png"></img>
                 <div>
+                <img className="portfolio-picture" src="../public/selie.png"></img>
+                </div>
+                
+                <div className='name'>
                     Eric Blaney
                 </div>
                 <div>

@@ -2,9 +2,27 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #FBFF5A
+
 }
 
 .portfolio-picture {
-    border-radius: 20%;
+    margin-top: 50px;
+    border-radius: 25%;
+    width: 300px;
 }
+
+.contact-details{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #a2ac31d2;
+}
+
+.name{
+    padding-top: 50px;
+}
+
